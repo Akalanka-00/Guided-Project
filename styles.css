@@ -14,7 +14,7 @@ body {
   
   footer {
     text-align: center;
-    font-family: Times New Roman;
+    font-family: 'Times New Roman', Times, serif; 
     font-size: 10px;
     padding: 3px;
     background-color: Orange;
@@ -32,7 +32,7 @@ body {
   .pricetopic{
     font-size: 25px;
     font-weight: bold;
-    padding-top: 50px;
+    padding-top: 150px;
   }
   
   .offers {
@@ -50,5 +50,5 @@ body {
   
   th, td {
     text-align: left;
-    padding: 8px;
+    padding: 16px;
   }
